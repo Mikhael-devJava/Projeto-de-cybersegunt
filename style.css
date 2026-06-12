@@ -1,9 +1,10 @@
-@charset "UTF-8"
+@charset "UTF-8";
 
-:oor {
-  --oi: #1562c9d3;
+:root {
+  --cor-principal: blue;
 }
-main {
-  background-color: #5f9beb9e;
-  
+.foto {
+  width: 100%;
+  max-width: 800;
+  height: auto;
 }
