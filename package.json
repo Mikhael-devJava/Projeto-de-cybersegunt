@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "express.js": "^1.0.0",
+    "jsonwebtoken": "^9.0.3",
+    "mongodb": "^7.2.0",
+    "mongoose": "^9.2.4",
+    "pg": "^8.20.0"
+  },
+  "name": "projeto-de-cybersegunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mikhael-devJava/Projeto-de-cybersegunt.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mikhael-devJava/Projeto-de-cybersegunt/issues"
+  },
+  "homepage": "https://github.com/Mikhael-devJava/Projeto-de-cybersegunt#readme"
+}
